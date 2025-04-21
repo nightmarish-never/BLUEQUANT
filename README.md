@@ -1,2 +1,2 @@
-# Repository_1_QuantModel
+# BLUEQUANT
 Using LSTM model to predict stock close.
